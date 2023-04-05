@@ -74,6 +74,7 @@ def calculate_surplus_data(sales_row):
     
 
     return surplus_data
+    
 def main():
     """
     Run all program function
